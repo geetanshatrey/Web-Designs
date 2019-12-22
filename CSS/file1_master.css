@@ -1,0 +1,17 @@
+/* Comment in css */
+/* some text */
+/* selected tag{
+  property: value;
+}*/
+h1{
+  color: red;
+}
+ol{
+  color: rgb(224, 11, 171);
+}
+p{
+  color: #0895a8;
+}
+h4{
+  color: rgba(224, 11, 171,0.5);
+}
